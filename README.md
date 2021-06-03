@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dmsyudha
+- 👀 I’m interested in Modern Frontend Framework
+- 🌱 I’m currently learning any new technology that I can use to fasten my development process
+- 💞️ I’m looking to collaborate on any Transportation Project
+- 📫 You can reach me through dmsyudha22@gmail.com
