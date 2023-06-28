@@ -19,4 +19,3 @@ Continuous learning, teamwork, and the power of a good cup of coffee ☕
 
 Remember, the world is your oyster and code is your pearl! Let's keep pushing, keep learning, and keep building amazing things together. ✨
 
-![dmsyudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmsyudha&show_icons=true&theme=radical)
